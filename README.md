@@ -20,4 +20,4 @@
 ## Contact
 
 **Email**: [ibrilata.dev@gmail.com](mailto:ibrilata.dev@gmail.com)  
-**LinkedIn**: [Ivan Brilata](https://www.linkedin.com/in/ivan-brilata-b189b0283/)
+**LinkedIn**: [Ivan Brilata](https://www.linkedin.com/in/ivan-brilata-634a17373/)
