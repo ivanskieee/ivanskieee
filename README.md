@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
 ## Contact
+
 Email: [ibrilata.dev@gmail.com](mailto:ibrilata.dev@gmail.com)  
 LinkedIn: [Ivan Brilata](https://www.linkedin.com/in/ivan-brilata-634a17373/)
