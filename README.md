@@ -20,3 +20,8 @@
 ## Contact
 Email: [ibrilata.dev@gmail.com](mailto:ibrilata.dev@gmail.com)  
 LinkedIn: [Ivan Brilata](https://www.linkedin.com/in/ivan-brilata-634a17373/)
+
+## Live Animation Preview
+
+Check out my custom developer animation here:  
+**[animation-van.vercel.app](https://animation-van.vercel.app/)**
