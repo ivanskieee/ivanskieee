@@ -1,21 +1,23 @@
 Ivan Brilata
-Software Developer
 
-A dedicated software developer specializing in modern web technologies.
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+
+<div style="flex: 1;">
+
+*Software Developer*
 
 Tech Stack
-SQL [█████████░] 85%
+- SQL
+- Tailwind CSS
+- Node.js
+- React
+- Shadcn
+- TypeScript
 
-Tailwind CSS [█████████░] 85%
+</div>
 
-Node.js [████████░░] 80%
+<div style="flex-shrink: 0;">
+<img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" alt="Coding Animation" width="300" height="225" />
+</div>
 
-React [███████░░░] 75%
-
-Shadcn [███████░░░] 75%
-
-TypeScript [███████░░░] 70%
-
-Email: ibrilata.dev@gmail.com
-
-LinkedIn: linkedin.com/in/ivan-brilata-634a17373/
+</div>
