@@ -1,11 +1,11 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td style="border: none; vertical-align: top; padding-right: 40px; border-collapse: collapse;">
+<table style="border: 0; border-collapse: collapse; width: 100%;">
+<tr>
+<td style="border: 0; vertical-align: top; padding-right: 40px;">
 
-# Ivan Brilata
+Ivan Brilata<br>
 *Software Developer*
 
-## Tech Stack
+Tech Stack<br>
 • SQL  
 • Tailwind CSS  
 • Node.js  
@@ -14,7 +14,7 @@
 • TypeScript
 
 </td>
-<td style="border: none; vertical-align: top; border-collapse: collapse;">
+<td style="border: 0; vertical-align: top;">
 
 <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" alt="Coding Animation" width="600" height="400" />
 
