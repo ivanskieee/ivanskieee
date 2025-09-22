@@ -16,7 +16,7 @@ Tech Stack<br>
 </td>
 <td style="border: 0; vertical-align: top;">
 
-<img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" alt="Coding Animation" width="600" height="400" />
+<img src="https://clipart-library.com/8300/programmer-clipart-xl.png" width="600" height="400" />
 
 </td>
 </tr>
